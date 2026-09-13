@@ -47,15 +47,15 @@ I'm building in public. Every project here is a step toward that goal.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
  
 ## 🏗️ Featured Projects
- 
+
 | Project | Description | Tech |
 |---|---|---|
-| [MyPortfolio](https://github.com/bkdandzo/MyPortfolio) | Personal developer portfolio showcasing my work and background | CSS, HTML |
-| [DentaCare](https://github.com/bkdandzo/DentaCare) | Responsive website for a dental clinic with appointment UI | HTML, CSS |
-| [Calculator-UI](https://github.com/bkdandzo/Calculator-UI) | Clean, functional calculator with keyboard support | HTML, CSS |
-| [HorizonsOffices](https://github.com/bkdandzo/HorizonsOffices) | Office space landing page with modern layout | HTML, CSS |
+| [JS AI Tutor](https://github.com/bkdandzo/JS-CodingTutor) | Full-stack AI tutoring app with RAG knowledge base and streaming chat interface | Python, FastAPI, RAG, OpenRouter API |
+| [MyPortfolio](https://github.com/bkdandzo/MyPortfolio) | Personal developer portfolio — live on Vercel | HTML, CSS, JS |
+| [DentaCare](https://github.com/bkdandzo/DentaCare) | Multi-section dental clinic site built as a componentised React app | React, Tailwind, Vite |
+| [Coza-Store](https://github.com/bkdandzo/Coza-Store) | Responsive e-commerce storefront with sticky nav and cart UI | HTML, Tailwind, JS |
+| [HorizonsOffices](https://github.com/bkdandzo/HorizonsOffices) | Office space landing page, fully responsive across breakpoints | HTML, Tailwind, JS |
 | [LawWebsite-TailWindW4](https://github.com/bkdandzo/LawWebsite-TailWindW4) | Professional law firm website built with Tailwind CSS | HTML, Tailwind |
-| [Coza-Store](https://github.com/bkdandzo/Coza-Store) | E-commerce front-end with product listings and cart UI | HTML, CSS |
  
 > 🚧 **More projects actively being built** as I progress through CodeTrain Africa's Software Engineering curriculum.
 
