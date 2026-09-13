@@ -108,7 +108,7 @@ I'm open to conversations about:
 - 🌍 Remote opportunities — junior developer or security analyst roles
 **Reach me at:** blesskojodandzo@gmail.com
 **LinkedIn:** [bless-kojo-dandzo](https://www.linkedin.com/in/bless-kojo-dandzo-3a5062172/)
- 
+- 🔐 TryHackMe — [blesskojodandzo17](https://tryhackme.com/p/blesskojodandzo17)
 ---
  
 <div align="center">
